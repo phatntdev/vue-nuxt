@@ -16,5 +16,4 @@ steps:
     dotnet restore
     npm install
     npm run build
-    npm run publish
   displayName: 'npm publish'
